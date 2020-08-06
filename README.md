@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi you 👋
+您好！我是**Jack-cool**！
 
 <!--
 **Jack-cool/Jack-cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
