@@ -1,7 +1,7 @@
 ### Hi you 👋
 您好！我是**Jack-cool**！
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jack-cool&hide=prs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jack-cool&hide=prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jack-cool/Jack-cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
