@@ -1,6 +1,8 @@
 ### Hi you 👋
 您好！我是**柯森（Cosen）**！
 
+关于我，了解更多，点击[这里](https://juejin.im/user/3737995267297838)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jack-cool&hide=prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
