@@ -3,7 +3,10 @@
 
 关于我，了解更多，点击[这里](https://juejin.im/user/3737995267297838)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jack-cool&hide=prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+同时我也是公众号「前端森林」的作者，日常推送干货，欢迎大家关注啊😉
+![前端森林公众号二维码2](https://user-images.githubusercontent.com/26785201/90368733-1ed53d00-e09d-11ea-9be5-8c39826d3209.png)
+
 
 <!--
 **Jack-cool/Jack-cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
