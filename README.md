@@ -8,6 +8,10 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: 微信（Cosen95）
 
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/Jack-cool/assets/2020-9-15/1600163918415-github个人介绍.png" alt="" width="500">
+</div>
+
 <!--
 **Jack-cool/Jack-cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
