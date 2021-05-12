@@ -4,7 +4,7 @@
 关于我，了解更多，点击[这里](https://juejin.im/user/3737995267297838)
 
 - 🔭 I’m currently working on 上海
-- 🌱 I’m currently learning 可视化
+- 🌱 I’m currently learning `low code`
 - 💬 Ask me about ...
 - 📫 How to reach me: 微信（Cosen95）
 
